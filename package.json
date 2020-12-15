@@ -11,6 +11,11 @@
     "react-dom": "17.0.0",
     "react-scripts": "3.4.3"
   },
+  "engines": {
+     npm : "5.7.1",
+    node : "9.5.0"
+  },
+  
   "devDependencies": {
     "typescript": "3.8.3"
   },
