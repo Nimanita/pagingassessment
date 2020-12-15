@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.index {
+  font-size: 60px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  background: white;
+  color: orangered;
+}
+.buttonclick {
+  color: black;
+  background-color: yellow;
+  font-size: 60px;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+.content-data {
+  border: 5px solid blue;
+  color: red;
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-bottom: 5px;
+}
+.previous {
+  font-size: 60px;
+  background-color: black;
+  color: white;
+  height: 80px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+.next {
+  font-size: 60px;
+  background-color: black;
+  color: white;
+  height: 80px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
